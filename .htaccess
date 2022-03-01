@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^dinov.eu$
+
+RewriteRule ^/?$ "https\:\/\/www\.dinov\.eu" [R=301,L]
