@@ -11101,7 +11101,7 @@ ul.social-icons {
 .fa-instagram {
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png');
   background-size: 36px;
-  padding:10px 10.5px;
+  padding:10px 10.1px;
   -o-transition:.5s;
   -ms-transition:.5s;
   -moz-transition:.5s;
@@ -11124,7 +11124,7 @@ ul.social-icons {
   background-color: #72727200;
 }
 .fa-twitter:hover {
-    background-color: #00aced;
+    background-color: #106382;
 }
 .fa-youtube {
     background-image: url('https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png');
@@ -11138,7 +11138,7 @@ ul.social-icons {
     background-color: #72727200;
 }
 .fa-youtube:hover {
-    background-color: #ff0d00;
+    background-color: #ad0900;
 }
 .fa-github {
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png');
@@ -11171,7 +11171,7 @@ ul.social-icons {
 .uktc-logo {
   background-image: url(uktc-logo.png);
   background-size: 39px;
-  padding: 18px 18px;
+  padding: 18px 19px;
   -o-transition:.5s;
   -ms-transition:.5s;
   -moz-transition:.5s;
@@ -11303,7 +11303,7 @@ ul.social-icons {
     position: relative;
     height: auto;
     width: auto;
-    right: -68px;
+    right: -35px;
     top: 5px;
 }
 
